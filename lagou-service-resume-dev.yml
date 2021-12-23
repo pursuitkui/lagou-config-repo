@@ -1,0 +1,4 @@
+mysql: 
+ jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+test: 
+ 123123
